@@ -1,0 +1,60 @@
+.main {
+  display: flex;
+  width: 1000px;
+
+
+
+}
+
+.first {
+  /* width: 80%; */
+  border: solid 1px black;
+  width: 700px;
+  position: relative;
+
+}
+
+.second {
+  display: block;
+  text-align: center;
+  border: solid 1px black;
+  width: 200px;
+  padding-top: 40px;
+
+}
+
+#sidebar {
+  height: 50%;
+  font-size: 18px;
+
+}
+
+#timer {
+  font-size: 30px;
+}
+
+#message {
+  height: 50%;
+  font-size: 20px;
+}
+
+#potus {
+  position: absolute;
+  right: 0;
+  bottom: 28px;
+  left: 672px;
+  width: 30px;
+  height: 80px;
+  background: transparent;
+  border: none
+
+}
+
+img {
+  width: 700px;
+
+}
+
+/* div {
+  border: solid 1px black;
+} */
